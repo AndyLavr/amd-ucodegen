@@ -1,0 +1,4 @@
+This tool can be used to generate AMD microcode containers as used by the
+Linux kernel. It accepts raw AMD microcode files such as those generated
+by MCExtractor (https://github.com/platomav/MCExtractor.git) as input.
+The generated output file can be installed in /lib/firmware/amd-ucode.
